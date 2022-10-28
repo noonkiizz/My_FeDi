@@ -1,4 +1,4 @@
-Required global libraryyyyyy
+Required global library
 ========================
 1. truffle
 2. ganache-cli
